@@ -9,3 +9,4 @@ Ciao
 - ZARA
 ### metro lilla
 - MARCHE
+- ISTRIA
