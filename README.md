@@ -13,3 +13,5 @@ Ciao
 - CA' GRANDA
 - BICOCCA
 - BIGNAMI PARCO NORD
+### metro rossa
+- SESTO FS
