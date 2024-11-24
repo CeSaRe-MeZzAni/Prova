@@ -15,3 +15,4 @@ Ciao
 - BIGNAMI PARCO NORD
 ### metro rossa
 - SESTO FS
+- SESTO RONDO'
